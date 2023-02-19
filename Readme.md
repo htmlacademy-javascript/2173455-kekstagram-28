@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Ekaterina Sevostianova](https://up.htmlacademy.ru/javascript/28/user/2173455).
-* Наставник: `Неизвестно`.
+* Наставник: [Оксана Грицюк](https://htmlacademy.ru/profile/id2136551).
 
 ---
 
